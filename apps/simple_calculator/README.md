@@ -26,6 +26,6 @@ Division by zero is not allowed, and the program will display an error message i
 ## ANSI Colors
 This calculator uses ANSI escape sequences for colored output. The color codes are as follows:
 
-Green: Success and informational messages
-Red: Error messages
-Reset: Reset to default console text color
+- **Green**: Success and informational messages
+- **Red**: Error messages
+- **Reset**: Reset to default console text color
